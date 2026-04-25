@@ -1,0 +1,15 @@
+D:\revisionLangage\RevisionC#\bin\Debug\net9.0\RevisionC#.exe
+D:\revisionLangage\RevisionC#\bin\Debug\net9.0\RevisionC#.deps.json
+D:\revisionLangage\RevisionC#\bin\Debug\net9.0\RevisionC#.runtimeconfig.json
+D:\revisionLangage\RevisionC#\bin\Debug\net9.0\RevisionC#.dll
+D:\revisionLangage\RevisionC#\bin\Debug\net9.0\RevisionC#.pdb
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.AssemblyInfoInputs.cache
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.AssemblyInfo.cs
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.csproj.CoreCompileInputs.cache
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.sourcelink.json
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.dll
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\refint\RevisionC#.dll
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.pdb
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\RevisionC#.genruntimeconfig.cache
+D:\revisionLangage\RevisionC#\obj\Debug\net9.0\ref\RevisionC#.dll
